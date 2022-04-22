@@ -8,6 +8,7 @@
     {if isset($dato)}
       <h2 class="center">Info recibida: {$dato}</h2>
 
+
       <br>
 
       <table>
