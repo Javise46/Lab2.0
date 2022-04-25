@@ -1,5 +1,34 @@
-{include file="Cabecera/Header.tpl"}
-  {include file="Encabezados/Encabezado.tpl"}
+<?php
+/* Smarty version 4.0.4, created on 2022-04-25 23:16:32
+  from 'C:\xampp\htdocs\Lab2\View\Imagenes.tpl' */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '4.0.4',
+  'unifunc' => 'content_62670fb0cf3de2_68643415',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    'cc2c4b27cf8bfe5d8c90ccef8cac16958fcde6a8' => 
+    array (
+      0 => 'C:\\xampp\\htdocs\\Lab2\\View\\Imagenes.tpl',
+      1 => 1650920748,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+    'file:Cabecera/Header.tpl' => 1,
+    'file:Encabezados/Encabezado.tpl' => 1,
+    'file:Encabezados/PiePagina.tpl' => 1,
+    'file:Cabecera/Footer.tpl' => 1,
+  ),
+),false)) {
+function content_62670fb0cf3de2_68643415 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->_subTemplateRender("file:Cabecera/Header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
+?>
+  <?php $_smarty_tpl->_subTemplateRender("file:Encabezados/Encabezado.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
+?>
 
     <h1 class="center">Paisajes</h1>
  <table>
@@ -60,8 +89,11 @@
             <td>Arizona, Estados Unidos</td>
             <td><a href ="https://losviajesdedomi.com/wp-content/uploads/2021/09/olas-del-desierto-EEUU-1-1.jpg">  Clic Aqui </td>
       </table>
-    {include file="Encabezados/PiePagina.tpl"}
+    <?php $_smarty_tpl->_subTemplateRender("file:Encabezados/PiePagina.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
+?>
     
 
 
-{include file="Cabecera/Footer.tpl"}
+<?php $_smarty_tpl->_subTemplateRender("file:Cabecera/Footer.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
+}
+}
