@@ -29,5 +29,10 @@
             $this->smarty->assign('title','Imagenes');
             $this->smarty->display('Imagenes.tpl');
         }
+        public function IrVideo()
+        {
+            $this->smarty->assign('title','Video');
+            $this->smarty->display('Video.tpl');
+        }
     }
 ?>
