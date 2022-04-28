@@ -34,5 +34,16 @@
             $this->smarty->assign('title','Video');
             $this->smarty->display('Video.tpl');
         }
+        public function IrAreaPe()
+        {
+            $this->smarty->assign('title','AreaPe');
+            $this->smarty->display('AreaPerimetro.tpl');
+        }
+        public function IrCalcular()
+        {
+            $this->smarty->assign('title','calcular');
+            $this->smarty->display('calcular.tpl');
+        }
+        
     }
 ?>

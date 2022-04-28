@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.0.4, created on 2022-04-25 23:11:01
+/* Smarty version 4.0.4, created on 2022-04-28 17:19:14
   from 'C:\xampp\htdocs\Lab2\View\Encabezados\Encabezado.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.0.4',
-  'unifunc' => 'content_62670e65e442e2_85213932',
+  'unifunc' => 'content_626ab072c59255_11347717',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'f4ca0b141f79dcc862c65b4590ea605c907fff63' => 
     array (
       0 => 'C:\\xampp\\htdocs\\Lab2\\View\\Encabezados\\Encabezado.tpl',
-      1 => 1650921059,
+      1 => 1651158759,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62670e65e442e2_85213932 (Smarty_Internal_Template $_smarty_tpl) {
+function content_626ab072c59255_11347717 (Smarty_Internal_Template $_smarty_tpl) {
 ?><head>
     <nav>
     <div class="nav-wrapper">
@@ -30,11 +30,12 @@ function content_62670e65e442e2_85213932 (Smarty_Internal_Template $_smarty_tpl)
         <li><a href="?Controller=Direcciones&Method=IrComponente">Registrarse</a></li>
         <li><a href="?Controller=Direcciones&Method=IrPaisajes">Paisajes</a></li>
         <li><a href="?Controller=Direcciones&Method=IrVideo">Video</a></li>
+        <li><a href="?Controller=Direcciones&Method=IrAreaPe">Area y Perimetro</a></li>
       </ul>
     </div>
   </nav>
 </head>
 <body>
-<div class=center> Bienvenido</div>
+<div class=center>Proyectos En Conjunto</div>
 </body><?php }
 }
