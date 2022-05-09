@@ -1,4 +1,3 @@
-
         
 {include file="Cabecera/Header.tpl"}
   {include file="Encabezados/Encabezado.tpl"}
