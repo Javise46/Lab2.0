@@ -1,3 +1,4 @@
+
 {include file="Cabecera/Header.tpl"}
   {include file="Encabezados/Encabezado.tpl"}
 
@@ -11,56 +12,56 @@
           </tr>
         </thead>
           <tr>
-            <td><img src="IMG/GranCañon1.png"height="200"></td>
+            <td><img src="IMG/GranCañon1.png"height="200" width="400"></td>
             <td>Parque Nacional del Gran Cañón en el norte de Arizona</td>
             <td><a href ="https://losviajesdedomi.com/wp-content/uploads/2021/09/El-Gran-Canon-compressor-1.jpg">  Clic Aqui </td>
           </tr>
           <tr>
-            <td><img src="IMG/LagoMa2.png" height="200"></td>
+            <td><img src="IMG/LagoMa2.png" height="200" width="400"></td>
             <td>Valle de los 10 Picos,Alberta (Canadá)</td>
             <td><a href ="https://losviajesdedomi.com/wp-content/uploads/2021/09/lago-moraine-Canada-1-1.jpg">  Clic Aqui </td>
           </tr>
           <tr>
-            <td><img src="IMG\CataratasdeIga3.png"height= "200"></td>
+            <td><img src="IMG\CataratasdeIga3.png"height= "200" width="400"></td>
             <td>La Garganta del Diablo,Frontera entre Argetina y Brasil</td>
             <td><a href ="https://losviajesdedomi.com/wp-content/uploads/2021/09/cataratas-del-iguazu-1-1-1.jpg">  Clic Aqui </td>
           </tr>
           <tr>
-            <td><img src="IMG\AOGASHIMA.png"height= "200"></td>
+            <td><img src="IMG\AOGASHIMA.png"height= "200" width="400"></td>
             <td>Hachijō, Tokio, Japón.</td>
             <td><a href ="https://losviajesdedomi.com/wp-content/uploads/2021/09/Aogashima-1-1.jpg">  Clic Aqui </td>
           </tr>
           <tr>
-            <td><img src="IMG\GLACIAL5.png"height= "200"></td>
+            <td><img src="IMG\GLACIAL5.png"height= "200" width="400"></td>
             <td>Provincia de Santa Cruz, en el sudoeste de la Argentina</td>
             <td><a href ="https://losviajesdedomi.com/wp-content/uploads/2021/09/glacial-perito-moreno-1-1.jpg">  Clic Aqui </td>
           </tr>
           <tr>
-            <td><img src="IMG\MarCoral6.png"height= "200"></td>
+            <td><img src="IMG\MarCoral6.png"height= "200" width="400"></td>
             <td>Australia</td>
             <td><a href ="https://losviajesdedomi.com/wp-content/uploads/2021/09/Arrecife-de-coral-australia-1-1.jpg">  Clic Aqui </td>
           </tr>
           <tr>
-            <td><img src="IMG\FIORDO7.png"height= "200"></td>
+            <td><img src="IMG\FIORDO7.png"height= "200" width="400"></td>
             <td>Noruega</td>
             <td><a href ="https://losviajesdedomi.com/wp-content/uploads/2021/09/stavanger-fiordo-noruego-1-1.jpg"> Clic Aqui  </tr>
           <tr>
-            <td><img src="IMG\ZHANGJIAJIE8.png"height= "200"></td>
+            <td><img src="IMG\ZHANGJIAJIE8.png"height= "200" width="400"></td>
             <td>China</td>
             <td><a href ="https://losviajesdedomi.com/wp-content/uploads/2021/09/ZHANGJIAJIE-1-1.jpg">  Clic Aqui </td>
             
           </tr>
           <tr>
-            <td><img src="IMG\HIELOTURQUESA9.png"height= "200"></td>
+            <td><img src="IMG\HIELOTURQUESA9.png"height= "200" width="400"></td>
             <td>Siberia</td>
             <td><a href ="https://losviajesdedomi.com/wp-content/uploads/2021/09/hielo-azul-turquesa-lago-Baikal-1-1.jpg">  Clic Aqui </td>
           </tr>
           <tr>
-            <td><img src="IMG\DesiertoOlas10.png"height= "200"></td>
+            <td><img src="IMG\DesiertoOlas10.png"height= "200" width="400"></td>
             <td>Arizona, Estados Unidos</td>
             <td><a href ="https://losviajesdedomi.com/wp-content/uploads/2021/09/olas-del-desierto-EEUU-1-1.jpg">  Clic Aqui </td>
       </table>
-    {include file="Encabezados/PiePagina.tpl"}
+
     
 
 

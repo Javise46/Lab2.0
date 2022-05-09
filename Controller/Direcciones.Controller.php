@@ -10,7 +10,12 @@
 
         public function Inicio()
         {
-            $this->smarty->assign('title','Mi pagina');
+            $this->smarty->assign('title','Home');
+            $this->smarty->display('Home.tpl');
+        }
+        public function login()
+        {
+            $this->smarty->assign('title','Login');
             $this->smarty->display('Default.tpl');
         }
         public function IrSass()
